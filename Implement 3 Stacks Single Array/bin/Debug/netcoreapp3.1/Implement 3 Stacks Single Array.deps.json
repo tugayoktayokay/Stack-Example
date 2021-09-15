@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Implement 3 Stacks Single Array/1.0.0": {
+        "runtime": {
+          "Implement 3 Stacks Single Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implement 3 Stacks Single Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

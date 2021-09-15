@@ -1,0 +1,13 @@
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.AssemblyInfoInputs.cache
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.AssemblyInfo.cs
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.exe
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.deps.json
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.runtimeconfig.json
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.runtimeconfig.dev.json
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.dll
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\bin\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.pdb
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.dll
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.pdb
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.genruntimeconfig.cache
+C:\Users\tugayo\source\repos\Implement 3 Stacks Single Array\Implement 3 Stacks Single Array\obj\Debug\netcoreapp3.1\Implement 3 Stacks Single Array.csprojAssemblyReference.cache
